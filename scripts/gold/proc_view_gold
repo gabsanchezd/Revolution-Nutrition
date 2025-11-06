@@ -12,6 +12,7 @@ Script Purpose:
 */  
 
 =======================================gold.marketingbycampaign=========================================
+	
 CREATE OR ALTER VIEW gold.marketingbycampaign AS
 SELECT
     ms.date_key,
