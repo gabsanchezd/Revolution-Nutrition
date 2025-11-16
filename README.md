@@ -15,12 +15,11 @@
 
 ## Table of Contents
 - [Project Background](#project-background)
-- [Executive Summary](#executive-summary)
-  - [Sales and Pricing](#sales-and-pricing)
-  - [Returns & Fitment](#returns--fitment)
-  - [Marketing Efficiency](#marketing-efficiency)
-  - [Channel & Store](#channel--store)
-  - [Delivery & Inventory Health](#delivery--inventory-health)
+- [Executive Overview](#executive-overview)
+  - [Campaign Level Funnel](#campaign-level-funnel)
+  - [CAC](#CAC)
+  - [CLV/Cohorts/Payback](#CLVCohortsPayback)
+  - [Channel & Store](#Product)
 - [Recommendations](#recommendations)
 - [Forecast (90 days)](#forecast-90-days)
 - [Data Model (Star Schema)](#data-model-star-schema)  
@@ -43,7 +42,7 @@ Net revenue is about $2.27 million with gross margin near $0.98 million and both
 ![CampaignLevelFunnel](https://github.com/gabsanchezd/Revolution-Nutrition/blob/main/visuals/CampaignLevelFunnel.png?raw=true "CampaignLevelFunnel")
 - Impressions are high but too few sessions turn into orders, and clicks appear lower than orders, which hints at tracking or attribution issues.
 - Google Ads shows the best conversion and higher average order value, TikTok is middle of the pack, and Meta underperforms.
-- Net revenue is driven by search campaigns for BCAA and Whey Isolate, so continue investing in that campaign. Sessions stay steady through the year while orders dip later, suggesting conversion erosion.
+- Search campaigns for BCAA and Whey Isolate drive net revenue. Sessions stay steady through the year while orders dip later, suggesting conversion erosion.
 
 
 ### CAC
@@ -66,7 +65,8 @@ Net revenue is about $2.27 million with gross margin near $0.98 million and both
 ![Product](https://github.com/gabsanchezd/Revolution-Nutrition/blob/main/visuals/Product.png?raw=true "Product")
 - Whey Protein drives the bulk of revenue with Aminos next, and margin leaders are High Whey and BCAA Splash, so keep inventory tight and promotion focused on these SKUs.
 - Health and Wellness shows higher COGS pressure, while discounts are most visible outside Protein, so tighten promo rules where margin is thin.
-- Vanilla is the dominant flavor with clear volume concentration, suggesting room to scale supply and creative around it while pruning or reworking weaker flavors. Use bundles to lift mix toward high GM items and review PDP content and pricing for lower margin categories to protect profit.
+- Vanilla is the dominant flavor with clear volume concentration, suggesting room to scale supply and creative around it while pruning or reworking weaker flavors.
+
 
 ## Recommendations
 
