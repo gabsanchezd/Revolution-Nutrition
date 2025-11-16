@@ -48,14 +48,14 @@ Net revenue is about $2.27 million with gross margin near $0.98 million and both
 ### CAC
 ![CAC](https://github.com/gabsanchezd/Revolution-Nutrition/blob/main/visuals/CAC.png?raw=true "CAC")
 - Spend remains steady with a late-year dip as shown in Spend by Month, while new-customer counts swing more in New Customers by Month, signaling uneven efficiency.
-- CAC by Channel Group shows Referral and Email as the cheapest sources and Affiliate plus “Organic” as the highest, suggesting an attribution check.
-- CAC, New Customers and Spend by Platform highlights Google Ads bringing the most new customers at lower CAC, TikTok in the middle, and Meta with the highest CAC despite sizable spend.
+- CAC by Channel Group shows Referral and Email as the cheapest sources and Affiliate as the highest, suggesting an attribution check.
+- CAC, New Customers, and Spend by Platform highlights Google Ads bringing the most new customers at lower CAC, TikTok in the middle, and Meta with the highest CAC despite sizable spend.
 
 
 ### CLV/Cohorts/Payback
 
 ![CLVCohortsPayback](https://github.com/gabsanchezd/Revolution-Nutrition/blob/main/visuals/CLVCohortsPayback.png?raw=true "CLVCohortsPayback")
-- CLV rises from 6 months to 12 months as expected, but only a few cohorts deliver standout value, with August showing the strongest 12-month CLV while several late year cohorts lag. 
+- CLV rises from 6 months to 12 months as expected, but only a few cohorts deliver standout value, with August showing the strongest 12-month CLV while several late-year cohorts lag. 
 - Cohort Revenue Cum peaks in May then falls sharply, implying weaker monetization from newer cohorts rather than a volume issue.
 - Cohort Size stays fairly steady with a dip in late summer and a rebound into December, so the recent slowdown is quality not quantity.
 
@@ -63,9 +63,9 @@ Net revenue is about $2.27 million with gross margin near $0.98 million and both
 ### Product
 
 ![Product](https://github.com/gabsanchezd/Revolution-Nutrition/blob/main/visuals/Product.png?raw=true "Product")
-- Whey Protein drives the bulk of revenue with Aminos next, and margin leaders are High Whey and BCAA Splash, so keep inventory tight and promotion focused on these SKUs.
+- Whey Protein drives the bulk of revenue with Aminos next, and margin leaders are High Whey and BCAA Splash.
 - Health and Wellness shows higher COGS pressure, while discounts are most visible outside Protein, so tighten promo rules where margin is thin.
-- Vanilla is the dominant flavor with clear volume concentration, suggesting room to scale supply and creative around it while pruning or reworking weaker flavors.
+- Vanilla is the dominant flavor with clear volume concentration, suggesting room to scale supply while pruning or reworking weaker flavors.
 
 
 ## Recommendations
